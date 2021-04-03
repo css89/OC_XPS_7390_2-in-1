@@ -7,13 +7,14 @@ Dell Inspiron 27 7775 All-In-One
     8GB 3733-LPDDR4X          - working
     256 GB NVME SSD           - working
     FHD 1920x1200             - working
-    Killer WiFi 1650          - working
+    Killer WiFi 1650          - working but only as WiFi N not AX
     Realtek Audio Speaker     - working
     Realtek Audio Jack        - working
+    USB-C Data Transfer       - working
     
     Big Sur 11.2.3
     Bios Version x.xx
-    OpenCore 0.63
+    OpenCore 0.67
     MacBook Air 9.1 as SMBIOS
 
 Not working:
