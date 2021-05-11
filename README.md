@@ -1,7 +1,7 @@
 # OC_XPS_7390_2-in-1
 macOS Big Sur with OpenCore on Dell XPS 13 7390 2-in-1
 
-Dell Inspiron 27 7775 All-In-One
+The owner has sold the notebook and will therefore no longer post updates.
 
     Intel Core i5-1035G1      - working
     8GB 3733-LPDDR4X          - working
